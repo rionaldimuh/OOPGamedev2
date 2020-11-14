@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gerandong\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gerandong\\.nuget\\packages"
+    ]
+  }
+}
